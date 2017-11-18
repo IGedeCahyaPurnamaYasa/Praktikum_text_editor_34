@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511019601 source:d:\ilmu komputer\praktikum\praktikum_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
